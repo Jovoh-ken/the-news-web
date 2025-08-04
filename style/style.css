@@ -69,7 +69,7 @@
     font-weight: 400;
     font-size: 16px;
     color: rgba(235, 235, 235, 1);
-    padding: 0px 15px 0px 15px;
+    padding: 0px 15px 8px 15px;
 }
 
 .news .news_box:nth-child(1) {
