@@ -50,6 +50,13 @@
     margin-top: 40px;
 }
 
+.text_wrapper{
+    padding: 8px 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 .news_box {
     display: flex;
     flex-direction: column;
@@ -60,16 +67,14 @@
 
 .title_news {
     font-weight: 700;
-    font-size: 19px;
+    font-size: 22px;
     color: rgba(255, 255, 255, 1);
-    padding: 15px 15px 9px 15px;
 }
 
 .text_news {
     font-weight: 400;
     font-size: 16px;
     color: rgba(235, 235, 235, 1);
-    padding: 0px 15px 8px 15px;
 }
 
 .news .news_box:nth-child(1) {
