@@ -43,6 +43,9 @@
     color: rgba(239, 68, 35, 1);
 }
 
+.intro_img{
+    display: block;
+}
 /* MAIN_QISMI */
 
 .news {
@@ -54,7 +57,7 @@
     padding: 8px 15px;
     display: flex;
     flex-direction: column;
-    align-items: baseline;
+
     gap: 8px;
 }
 
