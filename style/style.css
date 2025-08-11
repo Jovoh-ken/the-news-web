@@ -63,9 +63,8 @@
 .news_box {
     display: flex;
     flex-direction: column;
-    gap: 80px;
+    gap: 8px;
     width: 100%;
-    height: auto;
 }
 
 .title_news {
