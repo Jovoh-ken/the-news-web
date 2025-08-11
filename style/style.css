@@ -43,9 +43,10 @@
     color: rgba(239, 68, 35, 1);
 }
 
-.intro_img{
+.intro_img {
     display: block;
 }
+
 /* MAIN_QISMI */
 
 .news {
@@ -53,7 +54,7 @@
     margin-top: 40px;
 }
 
-.text_wrapper{
+.text_wrapper {
     padding: 8px 15px;
     display: flex;
     flex-direction: column;
@@ -133,7 +134,7 @@
     display: flex;
     flex-direction: column;
     gap: 30px;
-   padding: 20px 0;
+    padding: 20px 0;
 }
 
 /* FOOTER_QISMI */
@@ -152,4 +153,24 @@
 
 .footer_link {
     color: rgb(255, 255, 255);
+}
+
+.tnw {
+    font-weight: 700;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.left_logo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 4px;
+}
+
+img {
+    display: block;
+    /* inline-block emas */
+    max-width: 100%;
+    height: auto;
 }
