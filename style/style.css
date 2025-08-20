@@ -185,6 +185,8 @@
 /* IMG FIX */
 .card_two {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .box_1 {
